@@ -1,4 +1,4 @@
-//Muhammad Ahtir Saeed 22-10337
+
 import java.util.*;
 import java.util.Scanner;
 import java.util.Arrays;
